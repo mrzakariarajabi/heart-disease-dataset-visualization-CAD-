@@ -43,4 +43,12 @@ The dataset includes both multi-class and binary target variables. The **`num`**
 
 ---
 
+## Reference
+
+If you use this dataset or repository in your research, please cite the following article:
+
+Marateb, H. R., & Goudarzi, S. (2015). *A noninvasive method for coronary artery diseases diagnosis using a clinically-interpretable fuzzy rule-based system*. Journal of Research in Medical Sciences, 20(3), 214–223.  
+https://journals.lww.com/jrms/fulltext/2015/20030/A_noninvasive_method_for_coronary_artery_diseases.2.aspx
+
+
 
